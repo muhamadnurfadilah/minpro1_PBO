@@ -50,9 +50,9 @@ Method:
 1. Program akan menampilkan menu utama kepada pengguna, yang berisi pilihan untuk menambah, melihat, memperbarui, menghapus, atau keluar dari program.
 2. Pengguna memilih salah satu opsi.
 3. Berdasarkan pilihan pengguna:
-- Jika menambah pengurus, pengguna akan diminta untuk memasukkan nama, jabatan, dan nomor telepon pengurus.
-- Jika melihat daftar pengurus, program akan menampilkan daftar pengurus yang tersimpan di ArrayList.
-- Jika mengupdate pengurus, pengguna diminta memasukkan nama pengurus yang ingin diubah, lalu diminta data baru untuk diperbarui.
-- Jika menghapus pengurus, pengguna diminta memasukkan nama pengurus yang ingin dihapus.
+  - Jika menambah pengurus, pengguna akan diminta untuk memasukkan nama, jabatan, dan nomor telepon pengurus.
+  - Jika melihat daftar pengurus, program akan menampilkan daftar pengurus yang tersimpan di ArrayList.
+  - Jika mengupdate pengurus, pengguna diminta memasukkan nama pengurus yang ingin diubah, lalu diminta data baru untuk diperbarui.
+  - Jika menghapus pengurus, pengguna diminta memasukkan nama pengurus yang ingin dihapus.
 Setelah setiap operasi, program akan kembali ke menu utama hingga pengguna memilih untuk keluar.
 
