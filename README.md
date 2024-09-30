@@ -59,24 +59,31 @@ Setelah setiap operasi, program akan kembali ke menu utama hingga pengguna memil
 ## Output Program
 
 ![image](https://github.com/user-attachments/assets/87cf7582-560e-45e5-99b2-fcee0687e379)
+
 Pada Gambar di atas merupakan tampilan awal menu program
 
 ![image](https://github.com/user-attachments/assets/6eb7d03d-02c5-4681-972f-fc9b267ac356)
+
 Pada Gambar di atas merupakan tampilan ketika memilih opsi 1 pada menu , akan menginputkan properti (`Nama`, `Jabatan`, `Nomor HP`)
 
 ![image](https://github.com/user-attachments/assets/93b98c97-c64e-4bf3-ba4d-6bf9226039ac)
+
 Pada Gambar di atas merupakan tampilan ketika memilih opsi 2 pada menu , yaitu menampilkan daftar kepengurusan.
 
 ![image](https://github.com/user-attachments/assets/8001f1c1-1e18-4fcf-abdb-cc183aa72a42)
+
 Pada Gambar di atas merupakan tampilan ketika memilih opsi 3 pada menu , yaitu mengubah data kepengurusan. jika menginputkan nama pengurus dengan benar maka program akan melanjutkan untuk mengisi data baru.
 
 ![image](https://github.com/user-attachments/assets/820965ee-60dd-45a0-b72f-784dd664c3ad)
+
 Jika menginputkan nama pengurus salah , maka program akan menolak melanjutkan dan akan mengembalikan ke menu awal.
 
 ![image](https://github.com/user-attachments/assets/2b28115d-317e-45b1-8b2e-1de71d969b35)
+
 Pada Gambar di atas merupakan tampilan ketika memilih opsi 4 pada menu . yaitu menghapus data kepengurusan.
 
 ![image](https://github.com/user-attachments/assets/2d2d5531-0eb7-4cee-ba71-b811f03c6b5f)
+
 Pada Gambar di atas merupakan tampilan ketika memilih opsi 5 pada menu , yaitu program akan selesai/keluar dari sistem.
 
 
