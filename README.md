@@ -23,7 +23,7 @@ Kelas `Pengurus` berfungsi untuk merepresentasikan entitas pengurus masjid. Kela
 #### Constructor:
 ```java
 public Pengurus(String nama, String jabatan, String nomorHp)
-
+```
 Method:
 - public void tampilkanData(): Method ini digunakan untuk menampilkan informasi pengurus, seperti nama, jabatan, dan nomor telepon.
 
