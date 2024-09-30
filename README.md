@@ -11,7 +11,10 @@ Di dalam program ini terdapat operasi CRUD (Create, Read, Update, Delete) yang a
 
 ## Struktur Program
 Pada program ini, terbagi menjadi dua package (`masjid` dan `main`) dan dua class (`Pengurus` dan `ManajemenPengurus`).Berikut adalah struktur folder dari proyek ini:
-src/ ├── masjid/ │ └── Pengurus.java └── main/ └── ManajemenPengurus.java
+
+src/ 
+- masjid > Pengurus.java
+- main > ManajemenPengurus.java
 
 ### Kelas `Pengurus`
 Kelas `Pengurus` berfungsi untuk merepresentasikan entitas pengurus masjid. Kelas ini memiliki tiga properti dan satu method yang berfungsi menampilkan data pengurus.
