@@ -27,10 +27,10 @@ public Pengurus(String nama, String jabatan, String nomorHp)
 Method:
 - public void tampilkanData(): Method ini digunakan untuk menampilkan informasi pengurus, seperti nama, jabatan, dan nomor telepon.
 
-Kelas ManajemenPengurus
+#### Kelas ManajemenPengurus
 Kelas ini berfungsi sebagai kelas utama yang menyediakan antarmuka pengguna berbasis teks (CLI) untuk mengelola data pengurus masjid. Fitur CRUD (Create, Read, Update, Delete) diimplementasikan dalam kelas ini.
 
-Properti:
+#### Properti:
 - static ArrayList<Pengurus> listPengurus: ArrayList ini menyimpan daftar objek pengurus.
 - static Scanner scanner: Scanner ini digunakan untuk membaca input dari pengguna.
 
@@ -40,13 +40,13 @@ Method:
 - public static void updatePengurus(): Method ini digunakan untuk memperbarui data pengurus berdasarkan nama yang diinput oleh pengguna.
 - public static void hapusPengurus(): Method ini digunakan untuk menghapus pengurus dari daftar berdasarkan nama.
 
-Tipe Data yang Digunakan:
+#### Tipe Data yang Digunakan:
 1. String: Digunakan untuk menyimpan nama, jabatan, dan nomor telepon pengurus.
 2. ArrayList: Digunakan untuk menyimpan daftar objek Pengurus. Tipe data ini digunakan karena mendukung penambahan dan penghapusan data secara dinamis.
 3. boolean: Digunakan sebagai flag untuk memastikan apakah pengurus dengan nama tertentu ditemukan atau tidak saat pencarian data (misalnya saat update atau hapus pengurus).
 4. Scanner: Digunakan untuk menerima input dari pengguna dalam bentuk teks (String) dan angka (int).
 
-Alur Program:
+#### Alur Program:
 1. Program akan menampilkan menu utama kepada pengguna, yang berisi pilihan untuk menambah, melihat, memperbarui, menghapus, atau keluar dari program.
 2. Pengguna memilih salah satu opsi.
 3. Berdasarkan pilihan pengguna:
