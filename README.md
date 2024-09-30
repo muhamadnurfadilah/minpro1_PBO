@@ -56,3 +56,6 @@ Method:
       - Jika menghapus pengurus, pengguna diminta memasukkan nama pengurus yang ingin dihapus.
 Setelah setiap operasi, program akan kembali ke menu utama hingga pengguna memilih untuk keluar.
 
+## Output Program
+
+![image](https://github.com/user-attachments/assets/87cf7582-560e-45e5-99b2-fcee0687e379)
